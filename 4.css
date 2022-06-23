@@ -1,0 +1,13 @@
+.flex
+{
+	display: flex;
+	flex-flow:wrap;
+}
+
+.flex .item
+{
+	padding: 1%;
+	margin: 1%;
+	width: 20%;
+	border: 1px solid black;
+}

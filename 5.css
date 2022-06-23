@@ -1,0 +1,23 @@
+*
+{
+	margin: 0;
+}
+
+main
+{
+	display: flex;
+}
+main .left
+{
+	width: 20%;
+	background: yellow;
+	height: 100vh;
+	overflow: auto;
+}
+main .right
+{
+	width: 80%;
+	background: red;
+	height: 100vh;
+	overflow: auto;
+}

@@ -1,0 +1,22 @@
+
+.flex
+{
+	background: silver;
+	display: flex;
+	justify-content: space-evenly;
+	justify-content: space-around;
+	justify-content: space-between;
+	align-items: center;
+}
+
+
+.flex a
+{
+	padding: 10px;
+	/*background: red;*/
+}
+
+.flex button
+{
+	margin: 10px;
+}
